@@ -1,4 +1,4 @@
-<h2 align="center" id="GDUTitle" class="fadebox"><a href="https://www.autoptr.top/gdocr/" style='text-decoration:none;color:chocolate;'>GoldenDict++OCR「<span style="color:#003B7A;">划词翻译</span>」</a></h2>
+<h2 align="center" id="GDUTitle" class="fadebox"><a href="https://www.autoptr.top/gdocr/" style='text-decoration:none;color:chocolate;'>GoldenDict++OCR</a></h2>
 
 [More Demos](https://space.bilibili.com/3493095169592137/channel/series):
 [Sessions](https://www.bilibili.com/video/BV1Da4y1m7aT/?share_source=copy_web&vd_source=1f8bb4f075a48414a935e9435e7a5b1a "Session resume / 会话恢复")/[Auto Session](https://www.bilibili.com/video/BV1xj41177y3/?share_source=copy_web&vd_source=1f8bb4f075a48414a935e9435e7a5b1a "Authentic Session resume / 自动会话")
@@ -14,9 +14,6 @@ PK[①](https://www.bilibili.com/video/BV1kv4y1L7Cm/?share_source=copy_web&vd_so
 1. a simple plug-in mechanism added, based on which several OCR and audio playback engines plugged
 2. completely refactored all implementations to reduce runtime CPU and memory footprint, also query efficiency improved 
 3. the future goal is to abstract functional extensions and dictionary formats processing into complete plug-ins to further enhance the scalability and maintainability
-
-<img width="1098" alt="sssss" src="https://github.com/user-attachments/assets/7da6f16c-a6e9-485f-863c-6ebffeb356a4" />
-
 
 <div class="outer" style="list-style-type:none;margin:1px 6em 1px 3em" align="center">
 <ul class="list-group">
