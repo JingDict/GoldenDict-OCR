@@ -17,10 +17,10 @@ PK[①](https://www.bilibili.com/video/BV1kv4y1L7Cm/?share_source=copy_web&vd_so
 
 <div class="outer" style="list-style-type:none;margin:1px 6em 1px 3em" align="center">
 <ul class="list-group">
+<li class="list-group-item title"><a href="https://www.autoptr.top/gdocr/GoldenDict-OCR-Language-Settings/" style="border-bottom:none" title="2022-03-21 / GoldenDict++支持的OCR语言,如何设置划词翻译选项">GoldenDict++ OCR Setup</a></li>
 <li class="list-group-item title"><a href="https://www.autoptr.top/gdocr/GoldenDict-OCR-Changelog/" style="border-bottom:none" title="2022-03-21 / Changelog of GoldenDict++,划词翻译的升级日志及不同于官方版本GoldenDict的特点与特性">GoldenDict++OCR Changelog</a></li>
 <li class="list-group-item title"><a href="https://www.autoptr.top/gdocr/GoldenDict-OCR-Free-Dictionaries/" style="border-bottom:none" title="2022-03-21 / 下载适用于GoldenDict++划词翻译的词典: xdxf,aard,zim,wiki,wikipedia,wikiquote,wikitionary,wikibooks,wikisource,wikiversity,PhET,物理,化学,汉匈,汉法,汉德">Free Dictionaries for Everyone</a></li>
 <li class="list-group-item title"><a href="https://www.autoptr.top/gdocr/GoldenDict-OCR-Portable-Mode/" style="border-bottom:none" title="2022-03-21 / GoldenDict++全新的便携模式，可添加自定义辞书目录，无论是查词还是全文搜索，索引一次，随处可用">GoldenDict++ Portable Mode</a></li>
-<li class="list-group-item title"><a href="https://www.autoptr.top/gdocr/GoldenDict-OCR-Language-Settings/" style="border-bottom:none" title="2022-03-21 / GoldenDict++支持的OCR语言,如何设置划词翻译选项">GoldenDict++ OCR Setup</a></li>
 <li class="list-group-item title"><a href="https://www.autoptr.top/gdocr/GoldenDict-OCR-Deployment/" style="border-bottom:none" title="2022-03-21 / How to download and deploy GoldenDict++,GoldenDict++划词翻译下载和安装指南">GoldenDict++OCR Download and Deployment</a></li>
 <li class="list-group-item title"><a href="https://www.autoptr.top/gdocr/GoldenDict-OCR-How-to-Isolate-CSS/" style="border-bottom:none" title="GoldenDict++样式表隔离,如何CSS现定于特定词典或不影响其它词典">GoldenDict++ CSS Isolate</a></li>
 <li class="list-group-item title"><a href="https://www.autoptr.top/gdocr/wiki/" data-series="GoldenDict++OCR「划词版」" style="border-bottom:none;color:#428bca">GoldenDict Wiki &amp; Posts</a></li>
